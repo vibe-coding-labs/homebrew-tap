@@ -1,6 +1,6 @@
 cask "vibefocus" do
-  version "0.0.4"
-  sha256 "615f5c81dcc0f79815be2cbf09533f8b63c5000618a45807a521aa7eb6e6904c"
+  version "0.0.5"
+  sha256 "11ccfbf602fb6cec9a83d4da5e9e2a678ea644699c8f36affdd3cc6f21f38562"
 
   url "https://github.com/vibe-coding-labs/vibe-focus/releases/download/v#{version}/VibeFocus-#{version}-macos.zip"
   name "VibeFocus"
